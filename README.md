@@ -33,6 +33,7 @@ sistema.cadastrar_livro("Os Segredos da Mente Milionária", "T. Harv Eker")
 sistema.cadastrar_livro("O Homem Mais Rico da Babilônia", "George Samuel Clason")
 
 sistema.cadastrar_usuario("Gabriel Dzuman", "gabriel@email.com")
+sistema.cadastrar_usuario("Leonardo Dzuman", "leonardo@email.com")
 ```
 
 ### **Aluguel e Devolução de Livros**
