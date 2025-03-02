@@ -38,7 +38,7 @@ sistema.cadastrar_usuario("Leonardo Dzuman", "leonardo@email.com")
 
 ### **Aluguel e Devolução de Livros**
 ```python
-sistema.alugar_livro(1, 1)
+sistema.alugar_livro(1, 2)
 sistema.devolver_livro(1)
 sistema.alugar_livro(1, 1)
 ```
